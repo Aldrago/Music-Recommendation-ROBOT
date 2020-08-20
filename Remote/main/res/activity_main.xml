@@ -46,6 +46,15 @@
         android:background="#00ff00"
         >
     </Button>
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textsize="30px"
+        android:text="This is made by Aldrago"
+        android:visibility:"false"
+        android:gravity="center">
+    </TextView>
 
 
 
