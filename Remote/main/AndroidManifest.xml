@@ -19,7 +19,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".ListAct"></activity>
         <activity android:name=".LoginAct" />
         <activity
             android:name=".JoyTest"
